@@ -1,3 +1,5 @@
 data/*
 .idea/
 .ipynb_checkpoints/
+lightning_logs*
+experiment_dir
